@@ -8,3 +8,5 @@
 
 .person-cell{display:flex;gap:9px;align-items:flex-start}.table-avatar{width:26px;height:26px;flex:none;border-radius:50%;background:#edf5f4;color:#5a7b81;display:grid;place-items:center;font-size:10px}.town-tag{display:inline-block;font-size:8px;color:#6e8991;margin-top:4px}.detail-person>div{min-width:0}.detail-person small{display:block}.nav-main:not(.active){background:transparent;border-color:transparent;color:#b7c3ce}
 @media(min-width:641px){.map-and-detail{height:470px}.town-detail{min-height:0;overflow-y:auto}.map-wrap{min-height:0}}@media(max-width:640px){.map-and-detail{height:auto}}
+
+.paste-import{font-size:11px;margin-top:16px;color:#65808b}.paste-import summary{cursor:pointer}.paste-import label{display:block;margin-top:10px}.paste-import textarea{width:100%;display:block;resize:vertical;border:1px solid var(--line);border-radius:5px;font:11px/1.6 monospace;padding:9px;margin:6px 0 10px}

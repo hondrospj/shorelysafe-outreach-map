@@ -17,7 +17,7 @@ Open http://127.0.0.1:8870. The GitHub Pages deployment serves the same browser 
 
 ## Load actual activity
 
-Use **Import activity** to select a CSV or JSON file. Files up to 5 MB and 50,000 events are supported. New files merge into existing records, with duplicate events counted once. Invalid timestamps and event types are reported and skipped; an entirely invalid file does not replace existing data. No actual records are included with this repository.
+Use **Import activity** to select a CSV or JSON file, or paste records under **Data sources → Or paste CSV / JSON**. Files up to 5 MB and 50,000 events are supported. New files merge into existing records, with duplicate events counted once. Invalid timestamps and event types are reported and skipped; an entirely invalid file does not replace existing data. No actual records are included with this repository.
 
 CSV headers:
 
