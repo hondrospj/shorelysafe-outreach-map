@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+private/
+*.log
+.DS_Store
+node_modules/
